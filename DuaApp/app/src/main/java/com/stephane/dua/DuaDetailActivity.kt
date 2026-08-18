@@ -1,12 +1,14 @@
 package com.stephane.dua
 
 import android.os.Bundle
+import android.view.KeyEvent
 import android.view.LayoutInflater
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.res.ResourcesCompat
 import org.json.JSONObject
 import android.widget.LinearLayout
+import android.widget.ScrollView
 import android.widget.Switch
 import android.widget.TextView
 
@@ -23,6 +25,7 @@ class DuaDetailActivity : AppCompatActivity() {
     }
 
     private val translationViews = mutableListOf<TextView>()
+    private lateinit var scrollView: ScrollView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -31,6 +34,7 @@ class DuaDetailActivity : AppCompatActivity() {
         val duaIndex = intent.getIntExtra(EXTRA_DUA_INDEX, 0)
         val arabicTypeface = ResourcesCompat.getFont(this, R.font.scheherazade_new)
 
+        scrollView = findViewById(R.id.duaScrollView)
         val container = findViewById<LinearLayout>(R.id.duaContainer)
         val switch = findViewById<Switch>(R.id.translationSwitch)
         val titleView = findViewById<TextView>(R.id.titleText)
@@ -63,6 +67,20 @@ class DuaDetailActivity : AppCompatActivity() {
                 tv.visibility = visibility
             }
         }
+    }
+
+    override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
+        when (keyCode) {
+            KeyEvent.KEYCODE_VOLUME_UP -> {
+                scrollView.smoothScrollBy(0, -scrollView.height)
+                return true
+            }
+            KeyEvent.KEYCODE_VOLUME_DOWN -> {
+                scrollView.smoothScrollBy(0, scrollView.height)
+                return true
+            }
+        }
+        return super.onKeyDown(keyCode, event)
     }
 
     private fun loadDua(index: Int): Pair<String, List<DuaEntry>> {

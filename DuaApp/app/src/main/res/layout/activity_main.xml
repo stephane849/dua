@@ -47,6 +47,7 @@
         android:background="@color/eink_divider" />
 
     <ScrollView
+        android:id="@+id/duaScrollView"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
