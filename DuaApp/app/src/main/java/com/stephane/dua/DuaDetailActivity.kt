@@ -57,7 +57,7 @@ class DuaDetailActivity : AppCompatActivity() {
             arabicText.typeface = arabicTypeface
 
             if (entry.repeat != null) {
-                repeatText.text = "× ${entry.repeat}"
+                repeatText.text = entry.repeat
                 repeatText.visibility = View.VISIBLE
             }
 
