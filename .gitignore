@@ -25,6 +25,10 @@ captures/
 # Keystores (do not commit signing keys)
 *.jks
 *.keystore
+# Exception: a checked-in debug keystore (well-known password "android",
+# not a secret) so CI builds share one signing key and updates install
+# cleanly over each other instead of getting rejected for a cert mismatch.
+!DuaApp/app/debug.keystore
 
 # OS
 .DS_Store
