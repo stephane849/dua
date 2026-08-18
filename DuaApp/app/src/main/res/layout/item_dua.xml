@@ -17,6 +17,17 @@
         android:textColor="@color/eink_black" />
 
     <TextView
+        android:id="@+id/repeatText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:textColor="@color/eink_gray"
+        android:visibility="gone" />
+
+    <TextView
         android:id="@+id/translationText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

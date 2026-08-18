@@ -353,23 +353,27 @@
       "entries": [
         {
           "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.' (112:1–4) (3x)",
-          "divider": false
+          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.' (112:1–4)",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'I seek refuge in the Lord of daybreak, from the evil of that which He created, and from the evil of darkness when it settles, and from the evil of the blowers in knots, and from the evil of an envier when he envies.' (113:1–5) (3x)",
-          "divider": false
+          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'I seek refuge in the Lord of daybreak, from the evil of that which He created, and from the evil of darkness when it settles, and from the evil of the blowers in knots, and from the evil of an envier when he envies.' (113:1–5)",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَـٰهِ ٱلنَّاسِ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
-          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'I seek refuge in the Lord of mankind, the Sovereign of mankind, the God of mankind, from the evil of the retreating whisperer who whispers in the breasts of mankind, from among jinn and mankind.' (114:1–6) (3x)",
-          "divider": false
+          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'I seek refuge in the Lord of mankind, the Sovereign of mankind, the God of mankind, from the evil of the retreating whisperer who whispers in the breasts of mankind, from among jinn and mankind.' (114:1–6)",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
-          "translation": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me. (23:97–98) (3x)",
-          "divider": false
+          "translation": "My Lord, I seek refuge in You from the incitements of the devils, and I seek refuge in You, my Lord, lest they be present with me. (23:97–98)",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُ بِهِ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِ إِنَّهۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
@@ -383,8 +387,9 @@
         },
         {
           "arabic": "أَعُوذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
-          "translation": "I seek refuge in Allah, the All-Hearing, the All-Knowing, from the accursed Satan. (3x)",
-          "divider": false
+          "translation": "I seek refuge in Allah, the All-Hearing, the All-Knowing, from the accursed Satan.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهۥ خَـٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَـٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ هُوَ ٱللَّهُ ٱلْخَـٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ يُسَبِّحُ لَهۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
@@ -398,48 +403,57 @@
         },
         {
           "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
-          "translation": "I seek refuge in the perfect words of Allah from the evil of what He has created. (3x)",
-          "divider": false
+          "translation": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
-          "translation": "In the Name of Allah, by whose Name nothing on earth or in the heavens can cause harm, and He is the All-Hearing, the All-Knowing. (3x)",
-          "divider": false
+          "translation": "In the Name of Allah, by whose Name nothing on earth or in the heavens can cause harm, and He is the All-Hearing, the All-Knowing.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "اللَّهُمَّ إِنِّي أَصْبَحْتُ (أَمْسَيْتُ) مِنْكَ فِي نِعْمَةٍ وَعَافِيَةٍ وَسِتْرٍ فَأَتْمِمْ نِعْمَتَكَ عَلَيَّ وَعَافِيَتَكَ وَسِتْرَكَ فِي الدُّنْيَا وَالْآخِرَةِ",
-          "translation": "O Allah, I have entered this morning (evening) in Your blessing, and well-being, and protection. So complete Your blessing upon me, Your well-being, and Your protection, in this world and in the Hereafter. (3x)",
-          "divider": false
+          "translation": "O Allah, I have entered this morning (evening) in Your blessing, and well-being, and protection. So complete Your blessing upon me, Your well-being, and Your protection, in this world and in the Hereafter.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "اللَّهُمَّ إِنِّي أَصْبَحْتُ (أَمْسَيْتُ) أُشْهِدُكَ وَأُشْهِدُ حَمَلَةَ عَرْشِكَ وَمَلَائِكَتَكَ وَجَمِيعَ خَلْقِكَ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَـٰهَ إِلَّا أَنْتَ وَحْدَكَ لَا شَرِيكَ لَكَ وَأَنَّ سَيِّدَنَا مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ",
-          "translation": "O Allah, I have entered this morning (evening) bearing witness before You, and I call to witness the bearers of Your Throne, Your angels, and all of Your creation, that You are Allah - there is no deity except You, You are alone, without partner. And that our master Muhammad is Your servant and Your messenger. (4x)",
-          "divider": false
+          "translation": "O Allah, I have entered this morning (evening) bearing witness before You, and I call to witness the bearers of Your Throne, Your angels, and all of Your creation, that You are Allah - there is no deity except You, You are alone, without partner. And that our master Muhammad is Your servant and Your messenger.",
+          "divider": false,
+          "repeat": "4x"
         },
         {
           "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ حَمْدًا يُوَافِي نِعَمَهُ وَيُكَافِئُ مَزِيدَهُ",
-          "translation": "All praise is due to Allah, Lord of the worlds, with praise that is commensurate with His blessings and corresponds to their increase. (3x)",
-          "divider": false
+          "translation": "All praise is due to Allah, Lord of the worlds, with praise that is commensurate with His blessings and corresponds to their increase.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "آمَنْتُ بِاللَّهِ الْعَظِيمِ وَكَفَرْتُ بِالْجِبْتِ وَالطَّاغُوتِ وَاسْتَمْسَكْتُ بِالْعُرْوَةِ الْوُثْقَى لَا انفِصَامَ لَهَا وَاللَّهُ سَمِيعٌ عَلِيمٌ",
-          "translation": "I believe in Allah, the Magnificent, and I reject false objects of worship (al-jibt) and all rebellious false deities and forces of misguidance (al-taghut), and I hold firmly to the firmest handhold which never breaks. And Allah is All-Hearing, All-Knowing. (3x)",
-          "divider": false
+          "translation": "I believe in Allah, the Magnificent, and I reject false objects of worship (al-jibt) and all rebellious false deities and forces of misguidance (al-taghut), and I hold firmly to the firmest handhold which never breaks. And Allah is All-Hearing, All-Knowing.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِسَيِّدِنَا مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ نَبِيًّا وَرَسُولًا",
-          "translation": "I am pleased with Allah as my Lord, with Islam as my religion, and with our master Muhammad - may Allah send His blessings upon him and his family and grant him peace - as my prophet and messenger. (3x)",
-          "divider": false
+          "translation": "I am pleased with Allah as my Lord, with Islam as my religion, and with our master Muhammad - may Allah send His blessings upon him and his family and grant him peace - as my prophet and messenger.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "حَسْبِيَ اللَّهُ لَا إِلَـٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
-          "translation": "Allah is sufficient for me; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne. (9:129) (7x)",
-          "divider": false
+          "translation": "Allah is sufficient for me; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne. (9:129)",
+          "divider": false,
+          "repeat": "7x"
         },
         {
           "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ وَصَحْبِهِ وَسَلِّمْ",
-          "translation": "O Allah, send prayers upon our master Muhammad, and upon his family, and his companions, and grant him peace. (10x)",
-          "divider": false
+          "translation": "O Allah, send prayers upon our master Muhammad, and upon his family, and his companions, and grant him peace.",
+          "divider": false,
+          "repeat": "10x"
         },
         {
           "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فُجَاءَةِ الْخَيْرِ وَأَعُوذُ بِكَ مِنْ فُجَاءَةِ الشَّرِّ",
@@ -538,13 +552,15 @@
         },
         {
           "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
-          "translation": "Glory and praise be to Allah, by the number of His creation, by His own pleasure, by the weight of His Throne, and by the ink of His words. (3x)",
-          "divider": false
+          "translation": "Glory and praise be to Allah, by the number of His creation, by His own pleasure, by the weight of His Throne, and by the ink of His words.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
-          "translation": "Glory be to Allah, the Magnificent, and praise be to Him, by the number of His creation, by His pleasure, by the weight of His Throne, and by the ink of His words. (3x)",
-          "divider": false
+          "translation": "Glory be to Allah, the Magnificent, and praise be to Him, by the number of His creation, by His pleasure, by the weight of His Throne, and by the ink of His words.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "سُبْحَانَ اللَّهِ عَدَدَ مَا خَلَقَ فِي السَّمَاءِ سُبْحَانَ اللَّهِ عَدَدَ مَا خَلَقَ فِي الْأَرْضِ سُبْحَانَ اللَّهِ عَدَدَ مَا بَيْنَ ذَلِكَ سُبْحَانَ اللَّهِ عَدَدَ مَا هُوَ خَالِقٌ",
@@ -573,13 +589,15 @@
         },
         {
           "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَدَدَ كُلِّ ذَرَّةٍ أَلْفَ مَرَّةٍ",
-          "translation": "There is no deity except Allah alone, without partner. His is the dominion and His is the praise, He gives life and causes death, and He is capable of all things - by the number of every atom, a thousand times. (3x)",
-          "divider": false
+          "translation": "There is no deity except Allah alone, without partner. His is the dominion and His is the praise, He gives life and causes death, and He is capable of all things - by the number of every atom, a thousand times.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ مِفْتَاحِ بَابِ رَحْمَةِ اللَّهِ عَدَدَ مَا فِي عِلْمِ اللَّهِ صَلَاةً وَسَلَامًا دَائِمَيْنِ بِدَوَامِ مُلْكِ اللَّهِ وَعَلَى آلِهِ وَصَحْبِهِ عَدَدَ كُلِّ ذَرَّةٍ أَلْفَ مَرَّةٍ",
-          "translation": "O Allah, send blessings and peace upon our master Muhammad, the key to the door of Allah's mercy, by the number of all that is in Allah's knowledge, blessings and peace that are continuous with the continuity of Allah's dominion, and upon his family and companions by the number of every atom, a thousand times. (3x)",
-          "divider": false
+          "translation": "O Allah, send blessings and peace upon our master Muhammad, the key to the door of Allah's mercy, by the number of all that is in Allah's knowledge, blessings and peace that are continuous with the continuity of Allah's dominion, and upon his family and companions by the number of every atom, a thousand times.",
+          "divider": false,
+          "repeat": "3x"
         }
       ]
     },
@@ -608,93 +626,111 @@
         },
         {
           "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
-          "translation": "There is no god but Allah alone, without partner. To Him belongs all sovereignty and to Him belongs all praise. He gives life and causes death, and He has power over all things. (3x)",
-          "divider": false
+          "translation": "There is no god but Allah alone, without partner. To Him belongs all sovereignty and to Him belongs all praise. He gives life and causes death, and He has power over all things.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
-          "translation": "Glory be to Allah, all praise belongs to Allah, there is no god but Allah, and Allah is the greatest. (3x)",
-          "divider": false
+          "translation": "Glory be to Allah, all praise belongs to Allah, there is no god but Allah, and Allah is the greatest.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ",
-          "translation": "Glory be to Allah and praise be to Him, glory be to Allah, the Magnificent. (3x)",
-          "divider": false
+          "translation": "Glory be to Allah and praise be to Him, glory be to Allah, the Magnificent.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "رَبَّنَا اغْفِرْ لَنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
-          "translation": "Our Lord, forgive us and accept our repentance. Indeed, You are the Accepter of Repentance, the Most Merciful. (3x)",
-          "divider": false
+          "translation": "Our Lord, forgive us and accept our repentance. Indeed, You are the Accepter of Repentance, the Most Merciful.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ اللَّهُمَّ صَلِّ عَلَيْهِ وَسَلِّمْ",
-          "translation": "O Allah, send prayers upon our master Muhammad, O Allah, send prayers and peace upon him. (3x)",
-          "divider": false
+          "translation": "O Allah, send prayers upon our master Muhammad, O Allah, send prayers and peace upon him.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
-          "translation": "I seek refuge in the perfect words of Allah from the evil of what He has created. (3x)",
-          "divider": false
+          "translation": "I seek refuge in the perfect words of Allah from the evil of what He has created.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ الْسَّمِيعُ الْعَلِيمُ",
-          "translation": "In the name of Allah, with Whose Name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing. (3x)",
-          "divider": false
+          "translation": "In the name of Allah, with Whose Name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "رَضِينَا بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِسَيِّدِنَا مُحَمَّدٍ نَبِيًّا",
-          "translation": "We are content with Allah as our Lord, Islam as our religion, and our master Muhammad as our Prophet. (3x)",
-          "divider": false
+          "translation": "We are content with Allah as our Lord, Islam as our religion, and our master Muhammad as our Prophet.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "بِسْمِ اللَّهِ وَالْحَمْدُ لِلَّهِ وَالْخَيْرُ وَالشَّرُّ بِمَشِيئَةِ اللَّهِ",
-          "translation": "In the name of Allah, and all praise belongs to Allah. Good and evil are by the will of Allah. (3x)",
-          "divider": false
+          "translation": "In the name of Allah, and all praise belongs to Allah. Good and evil are by the will of Allah.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "آمَنَّا بِاللَّهِ وَالْيَوْمِ الْآخِرِ تُبْنَا إِلَى اللَّهِ بَاطِنًا وَظَاهِرًا",
-          "translation": "We believe in Allah and the Last Day, we turn in repentance to Allah, inwardly and outwardly. (3x)",
-          "divider": false
+          "translation": "We believe in Allah and the Last Day, we turn in repentance to Allah, inwardly and outwardly.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "يَا رَبَّنَا وَاعْفُ عَنَّا وَامْحُ الَّذِي كَانَ مِنَّا",
-          "translation": "O our Lord, pardon us and erase the wrongs that have come from us. (3x)",
-          "divider": false
+          "translation": "O our Lord, pardon us and erase the wrongs that have come from us.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "يَا ذَا الْجَلَالِ وَالْإِكْرَامِ أَمِتْنَا عَلَى دِينِ الْإِسْلَامِ",
-          "translation": "O Possessor of Majesty and Honour, cause us to die upon the religion of Islam. (7x)",
-          "divider": false
+          "translation": "O Possessor of Majesty and Honour, cause us to die upon the religion of Islam.",
+          "divider": false,
+          "repeat": "7x"
         },
         {
           "arabic": "يَا قَوِيُّ يَا مَتِينُ إِكْفِ شَرَّ الظَّالِمِينَ",
-          "translation": "O All-Strong, O Firm in Strength, protect us from the evil of the oppressors. (3x)",
-          "divider": false
+          "translation": "O All-Strong, O Firm in Strength, protect us from the evil of the oppressors.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "أَصْلَحَ اللَّهُ أُمُورَ الْمُسْلِمِينَ صَرَفَ اللَّهُ شَرَّ الْمُؤْذِينَ",
-          "translation": "May Allah rectify the affairs of the Muslims, may Allah turn away the evil of those who cause harm. (3x)",
-          "divider": false
+          "translation": "May Allah rectify the affairs of the Muslims, may Allah turn away the evil of those who cause harm.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "يا عَلِيُّ يا كَبِيرُ يا عَلِيمُ يا قَدِيرُ يا سَمِيعُ يا بَصِيرُ يا لَطِيفُ يا خَبِيرُ",
-          "translation": "O Most High, O Most Great, O All-Knowing, O All-Powerful, O All-Hearing, O All-Seeing, O Most Gentle, O All-Aware. (3x)",
-          "divider": false
+          "translation": "O Most High, O Most Great, O All-Knowing, O All-Powerful, O All-Hearing, O All-Seeing, O Most Gentle, O All-Aware.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "يَا فَارِجَ الْهَمِّ يَا كَاشِفَ الْغَمِّ يَا مَنْ لِعَبْدِهِ يَغْفِرُ وَيَرْحَمُ",
-          "translation": "O Reliever of distress, O Remover of grief, O You Who forgive Your servant and have mercy upon him. (3x)",
-          "divider": false
+          "translation": "O Reliever of distress, O Remover of grief, O You Who forgive Your servant and have mercy upon him.",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "اَسْتَغْفِرُ اللَّهَ رَبَّ الْبَرَايَا اَسْتَغْفِرُ اللَّهَ مِنَ الْخَطَايَا",
-          "translation": "I seek forgiveness from Allah, the Lord of all creation, I seek forgiveness from Allah for my sins. (4x)",
-          "divider": false
+          "translation": "I seek forgiveness from Allah, the Lord of all creation, I seek forgiveness from Allah for my sins.",
+          "divider": false,
+          "repeat": "4x"
         },
         {
           "arabic": "لَا إِلَهَ إِلَّا اللَّهُ",
-          "translation": "There is no god but Allah. (50 or 100x or 1000x)",
-          "divider": false
+          "translation": "There is no god but Allah.",
+          "divider": false,
+          "repeat": "50x / 100x / 1000x"
         },
         {
           "arabic": "لَا إِلَهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ وَشَرَّفَ وَكَرَّمَ وَمَجَّدَ وَعَظَّمَ وَرَضِيَ اللَّهُ تَعَالَى عَنْ أَهْلِ بَيْتِهِ الْمُطَهَّرِينَ وَأَصْحَابِهِ الْمُهْتَدِينَ وَالتَّابِعِينَ لَهُمْ بِإِحْسَانٍ إِلَى يَوْمِ الدِّينِ وَعَلَيْنَا مَعَهُمْ وَفِيهِمْ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ",
@@ -703,8 +739,9 @@
         },
         {
           "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.' (112:1–4) (3x)",
-          "divider": false
+          "translation": "In the name of Allah, the Most Compassionate, the Most Merciful. Say, 'He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.' (112:1–4)",
+          "divider": false,
+          "repeat": "3x"
         },
         {
           "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
@@ -743,8 +780,9 @@
         },
         {
           "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ رِضَاكَ وَالْجَنَّةَ وَنَعُوذُ بِكَ مِنْ سَخَطِكَ وَالنَّارِ",
-          "translation": "O Allah, we ask You for Your pleasure and Paradise, and we seek refuge in You from Your displeasure and the Fire. (3x)",
-          "divider": false
+          "translation": "O Allah, we ask You for Your pleasure and Paradise, and we seek refuge in You from Your displeasure and the Fire.",
+          "divider": false,
+          "repeat": "3x"
         }
       ]
     },

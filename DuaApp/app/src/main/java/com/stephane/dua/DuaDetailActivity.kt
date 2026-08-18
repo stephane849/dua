@@ -15,7 +15,8 @@ import android.widget.TextView
 data class DuaEntry(
     val arabic: String,
     val translation: String,
-    val divider: Boolean
+    val divider: Boolean,
+    val repeat: String?
 )
 
 class DuaDetailActivity : AppCompatActivity() {
@@ -48,11 +49,17 @@ class DuaDetailActivity : AppCompatActivity() {
             val itemView = inflater.inflate(R.layout.item_dua, container, false)
 
             val arabicText = itemView.findViewById<TextView>(R.id.arabicText)
+            val repeatText = itemView.findViewById<TextView>(R.id.repeatText)
             val translationText = itemView.findViewById<TextView>(R.id.translationText)
             val dividerLine = itemView.findViewById<View>(R.id.dividerLine)
 
             arabicText.text = entry.arabic
             arabicText.typeface = arabicTypeface
+
+            if (entry.repeat != null) {
+                repeatText.text = "× ${entry.repeat}"
+                repeatText.visibility = View.VISIBLE
+            }
 
             translationText.text = entry.translation
             dividerLine.visibility = if (entry.divider) View.VISIBLE else View.GONE
@@ -98,7 +105,8 @@ class DuaDetailActivity : AppCompatActivity() {
                 DuaEntry(
                     arabic = obj.getString("arabic"),
                     translation = obj.getString("translation"),
-                    divider = obj.optBoolean("divider", false)
+                    divider = obj.optBoolean("divider", false),
+                    repeat = if (obj.has("repeat")) obj.getString("repeat") else null
                 )
             )
         }
