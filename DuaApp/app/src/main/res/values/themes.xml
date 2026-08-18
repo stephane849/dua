@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.DuaApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/eink_black</item>
+        <item name="colorPrimaryDark">@color/eink_black</item>
+        <item name="colorAccent">@color/eink_black</item>
+        <item name="android:windowBackground">@color/eink_white</item>
+        <item name="elevationOverlayEnabled">false</item>
+    </style>
+</resources>
