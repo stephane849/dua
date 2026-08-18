@@ -1,0 +1,352 @@
+{
+  "duas": [
+    {
+      "id": "comprehensive",
+      "title": "The Comprehensive Supplication",
+      "entries": [
+        {
+          "arabic": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+          "translation": "I seek refuge in God from Satan the Accursed.",
+          "divider": false
+        },
+        {
+          "arabic": "بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "translation": "Q1:1 In the Name of God, the All-Merciful, the Mercy-Giving.",
+          "divider": true
+        },
+        {
+          "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ حَتَّى تَرْضَى، وَلَكَ الْحَمْدُ إِذَا رَضِيتَ، وَلَكَ الْحَمْدُ بَعْدَ رِضَاكَ",
+          "translation": "God, Yours is all praise until You are pleased, and Yours is all praise when You are pleased, and Yours is all praise after You are pleased.",
+          "divider": false
+        },
+        {
+          "arabic": "وَلَكَ الْحَمْدُ كَالَّذِي نَقُولُ وَخَيْرًا مِمَّا نَقُولُ، وَلَكَ الْحَمْدُ كَالَّذِي تَقُولُ، وَلَكَ الْحَمْدُ عَلَى كُلِّ حَالٍ",
+          "translation": "And Yours is all praise as we say and better than what we say, and Yours is all praise as You say, and Yours is all praise in every circumstance.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+          "translation": "God, we ask You for guidance, piety, temperance, and sufficiency.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ اسْتُرْنَا بِسِتْرِكَ الْجَمِيلِ (×2)",
+          "translation": "God, conceal us in Your beautiful veil.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ وَالْمُعَافَاةَ الدَّائِمَةَ فِي الدِّينِ وَالدُّنْيَا وَالآخِرَةِ",
+          "translation": "God, we ask You for pardon, well-being, and everlasting sufficiency in matters of religion, this life, and the next life.",
+          "divider": true
+        },
+        {
+          "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+          "translation": "Q2:201 Our Lord, give us what is good in this life and what is good in the next life, and protect us from the torment of the Fire.",
+          "divider": false
+        },
+        {
+          "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
+          "translation": "Q3:8 Our Lord, do not cause our hearts to swerve after You have guided us, and bestow upon us from Your Presence mercy. Indeed, You are the Bestower.",
+          "divider": false
+        },
+        {
+          "arabic": "رَبَّنَا آتِنَا مِن لَّدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+          "translation": "Q18:10 Our Lord, give us from Your Presence mercy, and prepare for us in our affair guidance.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ رَبَّنَا لَا تَفْضَحْنَا بَيْنَ عِبَادِكَ فِي الدُّنْيَا وَالْآخِرَةِ",
+          "translation": "God, Our Lord, do not expose us before Your servants in this life or the next.",
+          "divider": true
+        },
+        {
+          "arabic": "اللَّهُمَّ يَا اللهُ يَا اللهُ يَا اللهُ يَا اللهُ، بِجَاهِ أَسْمَاءِ اللهِ وَصِفَاتِ اللهِ وَأَنْبِيَاءِ اللهِ وَرُسُلِ اللهِ وَالصَّالِحِينَ مِنْ عِبَادِ اللهِ",
+          "translation": "God, O God, O God, O God, O God! By the rank of God's names, God's attributes, God's prophets, God's messengers, and the righteous amongst God's servants:",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ اقْضِ حَوَائِجَنَا ظَاهِرًا وَبَاطِنًا",
+          "translation": "God, fulfill our needs, inwardly and outwardly.",
+          "divider": false
+        },
+        {
+          "arabic": "نَصْرٌ مِّنَ اللهِ وَفَتْحٌ قَرِيبٌ وَبَشِّرِ الْمُؤْمِنِينَ",
+          "translation": "Q61:13 Help from God and imminent victory: so give glad tidings to the believers!",
+          "divider": true
+        },
+        {
+          "arabic": "اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ، وَأَرِنَا الْبَاطِلَ بَاطِلًا وَارْزُقْنَا اجْتِنَابَهُ",
+          "translation": "God, show us truth as truth and provide us with adherence to it, and show us falsehood as falsehood and provide us with avoidance of it.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْخَاتِمَةِ (×2)",
+          "translation": "God, provide us with a beautiful end.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ أَعِنَّا عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+          "translation": "God, assist us in remembering You, being grateful to You, and beautifully worshipping You.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ يَا عَالِمَ السِّرِّ مِنَّا، لَا تَهْتِكِ السِّتْرَ عَنَّا، وَعَافِنَا وَاعْفُ عَنَّا، وَكُنْ لَنَا حَيْثُ كُنَّا",
+          "translation": "God, You who know the secrets we conceal! Do not rend the veil and expose us. Grant us well-being, pardon us, and be on our side wherever we be.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ أَيْقِظْ قُلُوبَنَا لَكَ، وَنَبِّهْنَا مِنَ الْغَفْلَةِ عَنْكَ (×2)",
+          "translation": "God, awaken our hearts to You, and rouse us from our heedlessness of You.",
+          "divider": true
+        },
+        {
+          "arabic": "اللَّهُمَّ اجْعَلْ آخِرَ كَلَامِنَا لَا إِلَٰهَ إِلَّا اللهُ، مُحَمَّدٌ رَسُولُ اللهِ، صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+          "translation": "God, make the last of our words: \"There is no god but God; Muhammad is the Messenger of God.\" (God extol him and envelop him in perfect peace!)",
+          "divider": false
+        },
+        {
+          "arabic": "إِنَّ اللهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ، يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
+          "translation": "Q33:56 God and His angels extol the Prophet. O you who believe! Extol him and salute him with a greeting of peace.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ عَدَدَ كَمَالِ اللهِ كَمَا يَلِيقُ بِكَمَالِهِ",
+          "translation": "God, extol our noble lord Muhammad, envelop him in perfect peace, and bless him, and do likewise with his folk — a number of times commensurate with His perfection, as befits His perfection.",
+          "divider": true
+        },
+        {
+          "arabic": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ، وَسَلَامٌ عَلَى الْمُرْسَلِينَ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "translation": "Q37:180–182 Glorified is your Lord, the Lord of might, beyond what they describe. Peace be upon the messengers. All praise is for God, Lord of the worlds.",
+          "divider": false
+        }
+      ]
+    },
+    {
+      "id": "suhba",
+      "title": "Wird al-Ṣuhba",
+      "entries": [
+        {
+          "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ عَدَدَ كَمَالِ اللهِ وَكَمَا يَلِيقُ بِكَمَالِهِ (×10)",
+          "translation": "God, extol, grant perfect peace, and bless our noble Master Muhammad and the Family of our noble Master Muhammad, according to the number of all of the Perfections of God, and as is befitting of God's Perfection.",
+          "divider": false
+        },
+        {
+          "arabic": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ (×10)",
+          "translation": "I seek the forgiveness of God in His Glory.",
+          "divider": false
+        },
+        {
+          "arabic": "لَا إِلَٰهَ إِلَّا اللهُ (×10)",
+          "translation": "There is no god but God.",
+          "divider": true
+        },
+        {
+          "arabic": "الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+          "translation": "Q3:173 Those to whom the people said, “The people have gathered against you, so fear them.” And they replied, “God is all we need. What an excellent guardian is God.”",
+          "divider": false
+        },
+        {
+          "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ (×50)",
+          "translation": "God is all we need. What an excellent Guardian is God.",
+          "divider": true
+        },
+        {
+          "arabic": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا",
+          "translation": "Q71:10–12 [Noah] said [to the disbelievers]: “Seek forgiveness from your Lord; truly He is all-Forgiving. Then He will send down upon you abundant rainfall from heaven, and He will extend His mighty support unto you in wealth and progeny, providing you with gardens and rivers.”",
+          "divider": true
+        },
+        {
+          "arabic": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ (×50)",
+          "translation": "I ask the forgiveness of God in His glory.",
+          "divider": true
+        },
+        {
+          "arabic": "إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+          "translation": "Indeed, God is All-Forgiving, Ever-Merciful.",
+          "divider": false
+        },
+        {
+          "arabic": "فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ",
+          "translation": "Q47:19 And so know that there is no god but God.",
+          "divider": false
+        },
+        {
+          "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ الْمَلِكُ الْحَقُّ الْمُبِينُ (×20)",
+          "translation": "There is no God but God, the King, the Real, the Manifestly Apparent.",
+          "divider": false
+        },
+        {
+          "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ، يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
+          "translation": "Q33:56 Truly, God and His Angels extol the Prophet. You who believe, extol him and invoke upon him blessings of perfect peace.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلِّمْ (×20)",
+          "translation": "God, extol our noble Master Muhammad, his Family, and his Companions, and encompass them in perfect peace.",
+          "divider": true
+        },
+        {
+          "arabic": "يَا هَادِي (×10)",
+          "translation": "Oh God the Guide!",
+          "divider": false
+        },
+        {
+          "arabic": "أَنْتَ الْهَادِي أَنْتَ الْحَقُّ لَيْسَ الْهَادِي إِلَّا اللهُ (×10)",
+          "translation": "You God are the Guide. You God are the Absolutely Real. There is no Guide but God.",
+          "divider": true
+        },
+        {
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ الرَّحْمَٰنِ الرَّحِيمِ مَالِكِ يَوْمِ الدِّينِ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "translation": "Q1:1–7 In the name of God, the All-Merciful, the Ever-Merciful. Praise be to God, Lord of all the worlds, the All-Merciful, the Ever-Merciful, Complete Possessor of the Day of Judgement: You alone do we worship, and You alone do we seek for help. Guide us along the Straight Way, the Way of those whom You have blessed, not the Way of those who have incurred wrath, nor of those who have gone astray.",
+          "divider": false
+        },
+        {
+          "arabic": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ وَسَلَامٌ عَلَى الْمُرْسَلِينَ وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "translation": "Q37:180–182 Glory be to your Lord, the Lord of Might and Majesty, above all that they falsely ascribe to Him. Peace be upon the Message-Bearers, and praise be to God, Lord of all the worlds.",
+          "divider": false
+        }
+      ]
+    },
+    {
+      "id": "nawawi",
+      "title": "Ḥizb al-Nawāwī",
+      "entries": [
+        {
+          "arabic": "هَذَا حِزْبُ الْقُطْبِ الْإِمَامِ النَّوَوِيِّ رَضِيَ اللهُ عَنْهُ، يُقْرَأُ صَبَاحًا وَمَسَاءً",
+          "translation": "This is the litany of the Pole (Quṭb), Imam al-Nawawī, may God be pleased with him. It is recited morning and evening.",
+          "divider": true
+        },
+        {
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "translation": "In the Name of God, the All-Merciful, the Mercy-Giving.",
+          "divider": false
+        },
+        {
+          "arabic": "بِسْمِ اللهِ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، أَقُولُ عَلَى نَفْسِي، وَعَلَى دِينِي، وَعَلَى أَهْلِي، وَعَلَى أَوْلَادِي، وَعَلَى مَالِي، وَعَلَى أَصْحَابِي، وَعَلَى أَدْيَانِهِمْ، وَعَلَى أَمْوَالِهِمْ أَلْفَ بِسْمِ اللهِ",
+          "translation": "In the Name of God; God is Greater, God is Greater. I invoke it over myself, my religion, my family, my children, my wealth, my companions, their religion, and their wealth — a thousand times, “In the Name of God.”",
+          "divider": false
+        },
+        {
+          "arabic": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، أَقُولُ عَلَى نَفْسِي، وَعَلَى دِينِي، وَعَلَى أَهْلِي، وَعَلَى إِخْوَانِي، وَعَلَى مَالِي، وَعَلَى أَصْحَابِي، وَعَلَى أَدْيَانِهِمْ، وَعَلَى أَمْوَالِهِمْ أَلْفَ بِسْمِ اللهِ",
+          "translation": "God is Greater, God is Greater. I invoke it over myself, my religion, my family, my brothers, my wealth, my companions, their religion, and their wealth — a thousand times, “In the Name of God.”",
+          "divider": false
+        },
+        {
+          "arabic": "اللهُ أَكْبَرُ، أَقُولُ عَلَى نَفْسِي، وَعَلَى دِينِي، وَعَلَى أَهْلِي، وَعَلَى أَوْلَادِي، وَعَلَى مَالِي، وَعَلَى أَصْحَابِي، وَعَلَى أَدْيَانِهِمْ، وَعَلَى أَمْوَالِهِمْ أَلْفَ أَلْفَ أَلْفَ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ",
+          "translation": "God is Greater. I invoke it over myself, my religion, my family, my children, my wealth, my companions, their religion, and their wealth — a thousand thousand thousand times. There is no power and no strength except by God, the Most High, the Magnificent.",
+          "divider": true
+        },
+        {
+          "arabic": "بِسْمِ اللهِ وَبِاللهِ، وَمِنَ اللهِ، وَإِلَى اللهِ، وَعَلَى اللهِ، وَفِي اللهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "translation": "In the Name of God, and by God, and from God, and to God, and upon God, and in God; there is no power and no strength except by God.",
+          "divider": false
+        },
+        {
+          "arabic": "بِسْمِ اللهِ عَلَى دِينِي، وَعَلَى نَفْسِي، وَعَلَى أَوْلَادِي، بِسْمِ اللهِ عَلَى مَالِي وَعَلَى أَهْلِي، بِسْمِ اللهِ عَلَى كُلِّ شَيْءٍ أَعْطَانِيهِ رَبِّي، بِسْمِ اللهِ رَبِّ السَّمَاوَاتِ السَّبْعِ وَرَبِّ الْأَرَضِينَ السَّبْعِ وَرَبِّ الْعَرْشِ الْعَظِيمِ",
+          "translation": "In the Name of God over my religion, over myself, over my children; in the Name of God over my wealth and my family; in the Name of God over everything my Lord has given me; in the Name of God, Lord of the seven heavens, Lord of the seven earths, and Lord of the Magnificent Throne.",
+          "divider": false
+        },
+        {
+          "arabic": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "translation": "In the Name of God, with whose Name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
+          "divider": false
+        },
+        {
+          "arabic": "بِسْمِ اللهِ خَيْرِ الْأَسْمَاءِ، لَا فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، بِسْمِ اللهِ أَفْتَتِحُ وَبِهِ أَخْتَتِمُ",
+          "translation": "In the Name of God, the best of Names — neither on earth nor in heaven is there its like. With the Name of God I begin, and with it I conclude.",
+          "divider": true
+        },
+        {
+          "arabic": "اللهُ اللهُ اللهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئًا، اللهُ اللهُ اللهُ، اللهُ لَا إِلَٰهَ إِلَّا اللهُ، اللهُ أَعَزُّ وَأَجَلُّ وَأَكْبَرُ مِمَّا أَخَافُ وَأَحْذَرُ",
+          "translation": "God, God, God is my Lord; I associate nothing with Him. God, God, God — God, there is no god but God. God is Mightier, more Majestic, and Greater than whatever I fear or am wary of.",
+          "divider": false
+        },
+        {
+          "arabic": "بِكَ اللَّهُمَّ أَعُوذُ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ غَيْرِي وَمِنْ شَرِّ مَا خَلَقَ رَبِّي وَذَرَأَ وَبَرَأَ، وَبِكَ اللَّهُمَّ أَحْتَرِزُ مِنْهُمْ، وَبِكَ اللَّهُمَّ أَعُوذُ مِنْ شُرُورِهِمْ، وَبِكَ اللَّهُمَّ أَدْرَأُ فِي نُحُورِهِمْ",
+          "translation": "By You, God, I seek refuge from the evil of myself, from the evil of others, and from the evil of what my Lord has created, scattered abroad, and brought into being. By You, God, I guard myself from them. By You, God, I seek refuge from their evils. By You, God, I repel harm at their very throats.",
+          "divider": false
+        },
+        {
+          "arabic": "وَأُقَدِّمُ بَيْنَ يَدَيَّ: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ، بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ، بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "translation": "And I set before myself: “In the Name of God, the All-Merciful, the Mercy-Giving” — three times.",
+          "divider": false
+        },
+        {
+          "arabic": "قُلْ هُوَ اللهُ أَحَدٌ، اللهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+          "translation": "Q112:1–4 Say: He is God, One. God, the Everlasting Refuge. He begets not, nor was He begotten. And there is none comparable to Him.",
+          "divider": true
+        },
+        {
+          "arabic": "وَمِثْلُ ذَٰلِكَ عَنْ يَمِينِي، وَمِثْلُ ذَٰلِكَ عَنْ شِمَالِي، وَمِثْلُ ذَٰلِكَ أَمَامِي، وَمِثْلُ ذَٰلِكَ مِنْ خَلْفِي، وَمِثْلُ ذَٰلِكَ مِنْ فَوْقِي، وَمِثْلُ ذَٰلِكَ مِنْ تَحْتِي، وَمِثْلُ ذَٰلِكَ مُحِيطٌ بِي",
+          "translation": "And the like of that to my right, and the like of that to my left, and the like of that before me, and the like of that behind me, and the like of that above me, and the like of that beneath me, and the like of that encompassing me on every side.",
+          "divider": true
+        },
+        {
+          "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ لِي وَلَهُمْ مِنْ خَيْرِكَ بِخَيْرِكَ الَّذِي لَا يَمْلِكُهُ غَيْرُكَ",
+          "translation": "God, I ask You for myself and for them from Your good, by Your good which none possesses but You.",
+          "divider": false
+        },
+        {
+          "arabic": "اللَّهُمَّ اجْعَلْنِي وَإِيَّاهُمْ فِي عِبَادِكَ وَعِيَاذِكَ وَعِيَالِكَ وَجِوَارِكَ وَأَمَانَتِكَ وَحِزْبِكَ وَحِرْزِكَ، وَكَنَفِكَ مِنْ كُلِّ شَيْطَانٍ وَسُلْطَانٍ، وَإِنْسٍ وَجَانٍّ، وَبَاغٍ وَحَاسِدٍ، وَسَبُعٍ وَعَقْرَبٍ وَحَيَّةٍ، وَمِنْ كُلِّ دَابَّةٍ أَنْتَ آخِذٌ بِنَاصِيَتِهَا، إِنَّ رَبِّي عَلَى صِرَاطٍ مُّسْتَقِيمٍ",
+          "translation": "God, place me and them among Your servants, under Your protection, in Your care, in Your neighborly shelter, in Your trust, in Your company, and in Your safekeeping — sheltered from every devil and tyrant, every human and jinn, every oppressor and envier, every predator, scorpion, and serpent, and from every creature whose forelock You hold. [Q11:56] Truly my Lord is upon a straight path.",
+          "divider": true
+        },
+        {
+          "arabic": "حَسْبِيَ الرَّبُّ مِنَ الْمَرْبُوبِينَ، حَسْبِيَ الْخَالِقُ مِنَ الْمَخْلُوقِينَ، حَسْبِيَ الرَّازِقُ مِنَ الْمَرْزُوقِينَ، حَسْبِيَ السَّاتِرُ مِنَ الْمَسْتُورِينَ",
+          "translation": "God, my Lord, suffices me among those who have a lord; the Creator suffices me among the created; the Provider suffices me among the provided-for; the Concealer suffices me among the concealed.",
+          "divider": false
+        },
+        {
+          "arabic": "حَسْبِيَ النَّاصِرُ مِنَ الْمَنْصُورِينَ، حَسْبِيَ الْقَاهِرُ مِنَ الْمَقْهُورِينَ، حَسْبِيَ الَّذِي هُوَ حَسْبِي، حَسْبِيَ مَن لَمْ يَزَلْ حَسْبِي، حَسْبِيَ اللهُ وَنِعْمَ الْوَكِيلُ، حَسْبِيَ اللهُ مِن جَمِيعِ خَلْقِهِ",
+          "translation": "The Helper suffices me among the helped; the Overpowering suffices me among the overpowered. He who is truly my sufficiency suffices me; He who has never ceased to be my sufficiency suffices me. God suffices me, and how excellent a Guardian is He! God suffices me against all of His creation.",
+          "divider": true
+        },
+        {
+          "arabic": "إِنَّ وَلِيِّيَ اللهُ الَّذِي نَزَّلَ الْكِتَابَ وَهُوَ يَتَوَلَّى الصَّالِحِينَ",
+          "translation": "Q7:196 Truly my Protector is God, who has revealed the Book, and He is the Protector of the righteous.",
+          "divider": false
+        },
+        {
+          "arabic": "حَسْبِيَ اللهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+          "translation": "Q9:129 God is sufficient for me; there is no god but He. In Him I have put my trust, and He is Lord of the Magnificent Throne.",
+          "divider": true
+        },
+        {
+          "arabic": "وَإِذَا قَرَأْتَ الْقُرْآنَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَّسْتُورًا، وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا، وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْآنِ وَحْدَهُ وَلَّوْا عَلَى أَدْبَارِهِمْ نُفُورًا",
+          "translation": "Q17:45–46 And when you recite the Qur’an, We place between you and those who do not believe in the Hereafter a hidden veil. And We place coverings upon their hearts, lest they understand it, and in their ears, deafness. And when you mention your Lord alone in the Qur’an, they turn their backs in aversion.",
+          "divider": true
+        },
+        {
+          "arabic": "فَإِن تَوَلَّوْا فَقُلْ: حَسْبِيَ اللهُ لَا إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ (×7)",
+          "translation": "Q9:129 But if they turn away, say: “God is sufficient for me; there is no god but He. In Him I have put my trust, and He is Lord of the Magnificent Throne.”",
+          "divider": false
+        },
+        {
+          "arabic": "وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ",
+          "translation": "There is no power and no strength except by God, the Most High, the Magnificent.",
+          "divider": true
+        },
+        {
+          "arabic": "خَبَّأْتُ نَفْسِي فِي خَزَائِنِ اللهِ، أَقْفَالُهَا ثِقَتِي بِاللهِ، مَفَاتِحُهَا لَا قُوَّةَ إِلَّا بِاللهِ، أُدَافِعُ بِكَ اللَّهُمَّ عَن نَّفْسِي مَا أُطِيقُ وَمَا لَا أُطِيقُ",
+          "translation": "I have hidden myself away in the treasuries of God, whose locks are my trust in God, and whose keys are “there is no strength except by God.” By You, God, I fend off from myself what I have strength for and what I have no strength for.",
+          "divider": false
+        },
+        {
+          "arabic": "لَا طَاقَةَ لِمَخْلُوقٍ مَعَ قُدْرَةِ الْخَالِقِ",
+          "translation": "No created being has any power in the face of the power of the Creator.",
+          "divider": false
+        },
+        {
+          "arabic": "حَسْبِيَ اللهُ وَنِعْمَ الْوَكِيلُ",
+          "translation": "God is sufficient for me, and how excellent a Guardian is He.",
+          "divider": true
+        },
+        {
+          "arabic": "تَمَّ حِزْبُ الْقُطْبِ الْإِمَامِ النَّوَوِيِّ رَضِيَ اللهُ عَنْهُ",
+          "translation": "Here ends the litany of the Pole, Imam al-Nawawī, may God be pleased with him.",
+          "divider": false
+        }
+      ]
+    }
+  ]
+}

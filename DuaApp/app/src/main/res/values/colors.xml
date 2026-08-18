@@ -1,0 +1,6 @@
+<resources>
+    <color name="eink_black">#000000</color>
+    <color name="eink_white">#FFFFFF</color>
+    <color name="eink_gray">#555555</color>
+    <color name="eink_divider">#CCCCCC</color>
+</resources>
