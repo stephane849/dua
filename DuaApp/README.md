@@ -1,7 +1,7 @@
 # Dua App
 
 A minimal Android app for "The Comprehensive Supplication" — Arabic text in
-embedded Noto Naskh Arabic, English translation, and a toggle switch to
+embedded Scheherazade New, English translation, and a toggle switch to
 show/hide the translation for each entry (top-right of the screen).
 
 ## Why you're getting source, not a compiled APK
@@ -32,12 +32,13 @@ The APK will land in `app/build/outputs/apk/debug/app-debug.apk`.
 
 - `app/src/main/assets/dua.json` — all 20 dua entries (Arabic + translation +
   divider flag). Edit this file to add/change entries; no code changes needed.
-- `app/src/main/res/font/noto_naskh_arabic.ttf` — embedded font, so Arabic
-  renders correctly regardless of what's on the device.
+- `app/src/main/res/font/scheherazade_new.ttf` — embedded font (SIL Open
+  Font License, see `licenses/ScheherazadeNew-OFL.txt`), so Arabic renders
+  correctly regardless of what's on the device.
 - `app/src/main/java/com/stephane/dua/MainActivity.kt` — loads the JSON,
   inflates one `item_dua.xml` per entry, wires the translation toggle switch.
-- `app/src/main/res/layout/item_dua.xml` — centered Naskh Arabic on top,
-  gray translation text below (toggle-able), optional divider line.
+- `app/src/main/res/layout/item_dua.xml` — centered Arabic on top, gray
+  translation text below (toggle-able), optional divider line.
 - Theme is flat black-on-white with no elevation/shadows — matches your
   MMD e-ink design approach on the other Kompakt apps.
 

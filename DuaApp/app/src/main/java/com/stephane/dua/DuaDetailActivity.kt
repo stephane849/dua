@@ -29,7 +29,7 @@ class DuaDetailActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val duaIndex = intent.getIntExtra(EXTRA_DUA_INDEX, 0)
-        val naskhTypeface = ResourcesCompat.getFont(this, R.font.noto_naskh_arabic)
+        val arabicTypeface = ResourcesCompat.getFont(this, R.font.scheherazade_new)
 
         val container = findViewById<LinearLayout>(R.id.duaContainer)
         val switch = findViewById<Switch>(R.id.translationSwitch)
@@ -48,7 +48,7 @@ class DuaDetailActivity : AppCompatActivity() {
             val dividerLine = itemView.findViewById<View>(R.id.dividerLine)
 
             arabicText.text = entry.arabic
-            arabicText.typeface = naskhTypeface
+            arabicText.typeface = arabicTypeface
 
             translationText.text = entry.translation
             dividerLine.visibility = if (entry.divider) View.VISIBLE else View.GONE
